@@ -211,6 +211,7 @@
     }
     
     .adv-item {
+        font-family: 'Open Sans';
         width: 362px;
         padding: 30px;
         text-align: center;
@@ -220,6 +221,7 @@
     }
     
     .adv-item01 {
+        font-family: 'Open Sans';
         width: 362px;
         padding: 30px;
         text-align: center;
@@ -244,6 +246,7 @@
     }
     
     .adv-item02 {
+        font-family: 'Open Sans';
         width: 362px;
         padding: 30px;
         text-align: center;
@@ -263,9 +266,11 @@
         margin-right: 30px;
         padding: 30px;
         text-align: center;
+        font-family: 'Open Sans';
     }
     
     .banner-txt {
+        font-family: 'Open Sans';
         margin-top: 60px;
         width: 694px;
         height: 130px;
